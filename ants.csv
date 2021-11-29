@@ -1,0 +1,11 @@
+﻿ID,Habitat,Ant_nests,Years_Since_Fire,Fire_Intensity,Pocket_Gopher_Mounds
+1,Forest,9,0,0,2
+2,Forest,6,0,0,4
+3,Forest,4,0,0,5
+4,Forest,6,0,0,7
+5,Forest,7,0,0,1
+6,Forest,10,0,0,0
+7,Field,12,4,2,0
+8,Field,9,4,3,3
+9,Field,12,4,3,5
+10,Field,10,4,4,3
